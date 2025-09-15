@@ -1,2 +1,2 @@
-# Practice-file
-This repository is used to save the codes that I use for my knowledge development
+# Sequential search in java
+To develop a java program for Sequential search using array. 
